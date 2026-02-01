@@ -35,7 +35,7 @@
 
 ## 🏆 Career Highlights
 
-- Contributed to driving **$331.2M** MON deposits at [ShMonad](https://shmonad.xyz/) launch — 10× avg competitor — 1st protocol on Monad `FastLane Labs`
+- Contributed to driving **331.2M** MON deposits at [ShMonad](https://shmonad.xyz/) launch — 10× avg competitor — 1st protocol on Monad `FastLane Labs`
 - Market research, KPIs analysis, and automated monitoring for **Atlas** — advancing it to be **acquired by Chainlink** (Jan 2026) `FastLane Labs`
 - Built Points System tracking live interactions of **200k** users across ShMonad & partners · **99.9%** uptime `FastLane Labs`
 - **0 → high 6-figure** annual net PnL `C11 Labs`
@@ -52,8 +52,8 @@
 <sub>Aug 2024 – Present · Los Angeles (Remote)</sub>
 
 
-- Set research direction and ship production systems for MEV-aware infrastructure across validator tooling, order flow auctions, and monitoring
-- Drove [**ShMonad**](https://shmonad.xyz/) **LST launch to $331.2M in deposits** — ~10× the average competitor — within two weeks
+- Set research direction and ship production kpis systems for MEV-aware infrastructure across validator tooling, order flow auctions, and monitoring
+- Contributed to [**ShMonad**](https://shmonad.xyz/) **LST launch to 331.2M (Mon) in deposits** — ~10× the average competitor — within two weeks
 - Advanced **Atlas to market readiness** via KPIs research and order-flow auction analysis; acquired by **Chainlink** (Jan 2026)
 - Architected **Points System backend**: 200k addresses, 10 protocols, 99.9% uptime
 - Co-authored research on execution quality in permissionless order flow auctions ([arXiv:2503.05338](https://arxiv.org/abs/2503.05338))
