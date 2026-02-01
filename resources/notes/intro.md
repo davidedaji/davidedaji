@@ -1,0 +1,1 @@
+I love using mathematics, programming and automation to turn data into a strategic resource. I oversee capital allocation, investment strategies, and automated trading.
