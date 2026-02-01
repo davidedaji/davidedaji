@@ -51,6 +51,7 @@
 **Head of Research** — [FastLane Labs](https://www.fastlane.xyz/)
 <sub>Aug 2024 – Present · Los Angeles (Remote)</sub>
 
+
 - Set research direction and ship production systems for MEV-aware infrastructure across validator tooling, order flow auctions, and monitoring
 - Drove [**ShMonad**](https://shmonad.xyz/) **LST launch to $331.2M in deposits** — ~10× the average competitor — within two weeks
 - Advanced **Atlas to market readiness** via KPIs research and order-flow auction analysis; acquired by **Chainlink** (Jan 2026)
