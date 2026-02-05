@@ -8,6 +8,7 @@
 <a href="https://arxiv.org/abs/2503.05338"><img src="https://img.shields.io/badge/arXiv-2503.05338-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv" /></a>
 
 *Turning data into strategic resources through mathematics, programming, and automation.*
+
 *Capital allocation · Investment strategies · Automated trading*
 
 </div>
@@ -35,12 +36,14 @@
 
 ## 🏆 Career Highlights
 
-- Contributed to driving **331.2M** MON deposits at [ShMonad](https://shmonad.xyz/) launch — 10× avg competitor — 1st protocol on Monad `FastLane Labs`
 - Market research, KPIs analysis, and automated monitoring for **Atlas** — advancing it to be **acquired by Chainlink** (Jan 2026) `FastLane Labs`
 - Built Points System tracking live interactions of **200k** users across ShMonad & partners · **99.9%** uptime `FastLane Labs`
 - **0 → high 6-figure** annual net PnL `C11 Labs`
+- **Led BD** — negotiated and closed **4 market making partnerships** with DEXs, structured OTC deals `C11 Labs`
 - Scaled team **1 → 4** engineers, building algorithmic trading systems from scratch `C11 Labs`
 - Pushed company valuation to **7 figures** `C11 Labs`
+- Built **analytics framework from scratch** — self-serve reporting + early-stage **AI-powered automation**, reducing insight delivery from days to real time `FastLane Labs`
+- Contributed to driving **331.2M** MON deposits at [ShMonad](https://shmonad.xyz/) launch — 10× avg competitor — 1st protocol on Monad `FastLane Labs`
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -53,9 +56,12 @@
 
 
 - Set research direction and ship production kpis systems for MEV-aware infrastructure across validator tooling, order flow auctions, and monitoring
+- Built **analytics framework from scratch** — self-serve reporting + early-stage AI-powered automation, reducing insight delivery from days to real time
+- Supported Head of Product advancing **Atlas to market readiness** via profitability research and automated SLA monitoring; resulting its acquisition by **Chainlink** (Jan 2026)
 - Contributed to [**ShMonad**](https://shmonad.xyz/) **LST launch to 331.2M (Mon) in deposits** — ~10× the average competitor — within two weeks
 - Advanced **Atlas to market readiness** via KPIs research and order-flow auction analysis; acquired by **Chainlink** (Jan 2026)
-- Architected **Points System backend**: 200k addresses, 10 protocols, 99.9% uptime
+- Architected **Points System backend**: live interactions recorded and displayed for 200k addresses, 10 protocols, 99.9% uptime
+- Designed **atomic arbitrage tracker** for Polygon + **market share analysis** for FastLane MEV Protocol and ShMonad LST, supporting BD and go-to-market
 - Co-authored research on execution quality in permissionless order flow auctions ([arXiv:2503.05338](https://arxiv.org/abs/2503.05338))
 
 <br/>
@@ -65,9 +71,10 @@
 **Head of Execution** — C11 Labs ([Maven11](https://maven11.com/))
 <sub>Mar 2022 – Aug 2024 · Amsterdam (Hybrid)</sub>
 
-- First employee; scaled fund PnL from **zero to high six-figure** annual net
+- First employee; scaled fund PnL from **zero to high six-figure** annual net, pushing valuation into **seven figures**
+- **Led BD** — negotiated and closed **4 market making partnerships** with DEXs, structured OTC deals
 - Grew team from **1 to 4**, building algorithmic trading systems from scratch
-- Market-making and MEV strategies, pushing valuation into **seven figures**
+- Designed, programmed, and executed market-making strategies on DEXs and CLOBs
 - Built DevOps monitoring and alerting for live trading
 
 <br/>
